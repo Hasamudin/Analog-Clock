@@ -1,5 +1,6 @@
 # Analog Clock 
 
+Click [here](https://hasamudin.github.io/Analog-Clock/) to see
 ![Project Screenshot](image.png)  
 
 ---
